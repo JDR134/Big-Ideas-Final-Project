@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-### Team Kevin (Group 45)
+### Team Failsafe (Group 45)
 Finding the Best Neighborhood in Pittsburgh (for squatting)
 
 ## Team Members
